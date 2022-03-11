@@ -4,8 +4,7 @@
     </pre><!-- white text and background :) /!-->
     <font color="#FFFFFF">Package monero-checkout 💸</font></td></tr></tbody>
     <br>
-    <img src='https://img.shields.io/badge/Python-3.9.2-blue'></img>
-    <img src='https://img.shields.io/badge/Django-3-red'></img>
+    <img src='https://img.shields.io/badge/Python-3.10-green'></img>
 </div>
 
 A python tool to handler monero payments.
