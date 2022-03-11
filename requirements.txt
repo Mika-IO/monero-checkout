@@ -1,0 +1,3 @@
+coverage==6.3.2
+requests==2.27.1
+monero==0.99

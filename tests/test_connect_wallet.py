@@ -1,0 +1,1 @@
+from monero_checkout.checkout import PaymentCheckout
